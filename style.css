@@ -1,0 +1,43 @@
+.content{
+    padding: 15px;
+    margin-top: 0%;
+    margin-left: 10%;
+}
+.container{
+    height: 300px;
+    width: 300px;
+    border-color: black;
+    border-style: solid;
+    padding: 15px;
+    margin-left: 60%;
+    border-radius: 2%;
+    margin-top: 0%;
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+}
+button{
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: 10px;
+    width: 275px;
+    border-radius: 5%;
+}
+button:hover{
+    background-color:black;
+    cursor: pointer;
+    color: whitesmoke;
+}
+p{
+    text-align: center;
+    color: black;
+}
+div button{
+    background-color: green;
+    color: whitesmoke;
+    width: 150px;
+    margin-left: 23%;
+    border-radius: 5%;
+}
+}
